@@ -1,2 +1,3 @@
-# Primeiro repositorio criado curso em video
- primeiro
+# Primeiro repositório criado
+ primeiro uso do GitHub
+ curso em video
